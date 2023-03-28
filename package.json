@@ -1,6 +1,6 @@
 {
-    "name": "@microsoft/iot-cardboard-js",
-    "version": "0.0.0-development",
+    "name": "@microsoft/iot-cardboard-js_hm",
+    "version": "0.0.1-development",
     "description": "",
     "main": "index.js",
     "types": "index.d.ts",

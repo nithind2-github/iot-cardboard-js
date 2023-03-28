@@ -608,7 +608,7 @@
             "libraryName": "Link",
             "description": "Navigate to URLs specific to the element",
             "urlPlaceholder": "https://contoso.com/${PrimaryTwin.SerialNumber}",
-            "openLink": "Open link"
+            "openLink": "Click link"
         },
         "value": {
             "title": "Value widget",
