@@ -60,7 +60,7 @@
   --cb-color-modal-border: #424242; }
 
 [cardboard-data-theme='explorer'] {
-  --cb-color-bg-canvas: #222;
+  --cb-color-bg-canvas: #40ff00;
   --cb-color-bg-canvas-inset: #141414;
   --cb-color-file-dropzone-border: #333;
   --cb-color-inactive: #afafaf;
